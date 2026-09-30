@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "searching-and-sorting-a-book-catalog",
+      "title": "Searching and Sorting a Book Catalog",
+      "description": "Practice list and dictionary skills by implementing search and insertion sort for a book catalog",
+      "path": "assignments/searching-and-sorting-a-book-catalog",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
